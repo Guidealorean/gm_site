@@ -12,3 +12,4 @@ This map is very comfortable for building cool stuff like rockets and other thin
 * some airboats 
 * cubemap testing
 
+![not packaged with water caustics](https://img.shields.io/badge/not%20packaged%20with-water%20caustics-blueviolet)
