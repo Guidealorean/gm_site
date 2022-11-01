@@ -1,7 +1,7 @@
 # gm_site ![made with Valve Hammer Editor](https://img.shields.io/badge/made%20with-Valve%20Hammer%20Editor-orange) ![certificate of Throughly Tested](https://img.shields.io/badge/Certificate%20of-Throughly%20Tested-blue)
 
 
-Construction map for Garry's Mod.
+Construction map for Garry's Mod and the Source Engine SDK.
 
 This map is very comfortable for building cool stuff like rockets and other things.
 
